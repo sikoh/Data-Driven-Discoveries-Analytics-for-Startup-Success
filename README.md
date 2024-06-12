@@ -24,4 +24,4 @@ This CSV file contains data from a Google Form survey targeting individuals inte
 
 *Requirement for Online Learning Support in AI:* Whether the respondent requires online learning support in AI.
 
-This dataset will be used to analyze and identify the best candidates for hiring based on their educational background, motivation, and support needs, using Skills.AI analytics tools.
+This dataset will be used to analyze and identify the best candidates for hiring based on their educational background, motivation, and support needs, using Python libraries: Pandas and Plotly.
