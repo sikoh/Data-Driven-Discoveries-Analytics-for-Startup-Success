@@ -59,7 +59,11 @@ These results suggest that the recruitment strategy should primarily target **Un
 *<ins>The analytics task reveals the following:</ins>*
 
 Among the respondents, the **most popular academic departments** are **Web Development, Computer Science, Software Development, Information Technology, and Business Management**, each with a Respondent Count of 4.
+
 These departments are followed closely by Marketing, which has a Respondent Count of 3.
+
 It's worth noting that **there is no single stand-out department**; the top five are equally popular.
+
 The data does not show a clear preference for either technical (i.e., Web Development, Computer Science, Software Development, Information Technology) or business-oriented (i.e., Business Management, Marketing) departments.
+
 Further analysis or more data might be needed to identify any significant differences or trends among the respondents' academic department choices.
