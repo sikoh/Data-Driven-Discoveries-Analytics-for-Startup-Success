@@ -26,7 +26,7 @@ This CSV file contains data from a Google Form survey targeting individuals inte
 
 This dataset will be used to analyze and identify the best candidates for hiring based on their educational background, motivation, and support needs, using Python libraries: Pandas and Plotly.
 
-### Executive summary ### 
+### Executive summary: ### 
 The data results indicate a strong interest in AI among **Undergraduate students from Information Technology and Web Development departments, as well as among Bachelor's degree holders from Business Management and Marketing departments**. These groups should be primary targets in the recruitment strategy.
 
 The most popular academic departments among respondents are **Web Development, Computer Science, Software Development, Information Technology, and Business Management**, each with a Respondent Count of 4. This suggests a balanced interest in AI across both technical and business-oriented departments.
@@ -34,4 +34,22 @@ The most popular academic departments among respondents are **Web Development, C
 A significant majority of respondents **(approximately 65.2%)** expressed a need for online learning and career support in AI. This underscores the potential benefit of enhancing or introducing comprehensive online resources that cater to AI learning and career development.
 
 The most common level of educational attainment among respondents interested in learning generative AI is evenly split between **Bachelor's degree holders and Undergraduates**, each with 8 respondents. This indicates that interest in generative AI spans different stages of higher education, with a slight emphasis on the undergraduate level and those who have completed a Bachelor's degree.
+
+### Data Analytics and Visualization: ###
+***Identify the academic backgrounds and department most interested in AI for targeted recruitment.***
+<img width="919" alt="Screenshot 2024-06-13 at 4 25 36 PM" src="https://github.com/sikoh/Data-Driven-Discoveries-Analytics-for-Startup-Success/assets/84741857/58347752-58a8-4eda-93b8-f6bc7eea425a">
+
+<img width="980" alt="Screenshot 2024-06-13 at 4 29 45 PM" src="https://github.com/sikoh/Data-Driven-Discoveries-Analytics-for-Startup-Success/assets/84741857/3f37874e-f479-44f3-93e2-731b98d301df">
+
+<ing>*The data results indicate:*</ing>
+
+**Undergraduate students from Information Technology and Web Development** departments show an equal interest in AI, with a count of 2 respectively.
+
+Bachelor's degree holders from Business Management and Marketing departments also demonstrate a similar interest in AI, each with a count of 2.
+
+Only one Masters student each from Information Technology, Marketing, and Software Development departments are interested in AI.
+
+One Undergraduate student each from Business Management and Computer Science departments show an interest in AI.
+
+These results suggest that the recruitment strategy should primarily target **Undergraduate students in Information Technology and Web Development departments, followed by Bachelor's degree holders in Business Management and Marketing departments**.
 
