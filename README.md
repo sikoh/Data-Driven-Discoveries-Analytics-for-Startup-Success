@@ -87,4 +87,15 @@ Therefore, there's a substantial demand for online resources that cater to AI le
 The data suggests an opportunity to enhance online support systems or introduce new, comprehensive platforms that directly address this need.<br>
 
 
+**Determination of the most common level of educational attainment among respondents interested in learning generative AI.**
 
+<img width="1000" alt="Screenshot 2024-06-13 at 5 00 22 PM" src="https://github.com/sikoh/Data-Driven-Discoveries-Analytics-for-Startup-Success/assets/84741857/1d158885-ccae-4fd2-9886-15d5d5d8777e">
+
+*<ins>The analysis of the educational level of respondents interested in learning generative AI reveals the following:</ins>*
+
+The most common level of educational attainment is a tie between those with a **Bachelor's degree** and those who are **Undergraduates**, each category having 8 respondents. The next common level of educational attainment is a Master's degree with 7 respondents. **This suggests that the interest in generative AI is spread across different stages of higher education, with a slight emphasis on the undergraduate level and those who have completed a Bachelor's degree.**
+
+
+
+
+**Report Written by Silvana Koharian**
