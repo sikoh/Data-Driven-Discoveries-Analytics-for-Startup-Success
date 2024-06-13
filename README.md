@@ -53,3 +53,13 @@ One Undergraduate student each from Business Management and Computer Science dep
 
 These results suggest that the recruitment strategy should primarily target **Undergraduate students in Information Technology and Web Development departments, followed by Bachelor's degree holders in Business Management and Marketing departments**.
 
+**Identification of the most popular academic department among the respondents.**
+<img width="894" alt="Screenshot 2024-06-13 at 4 41 08 PM" src="https://github.com/sikoh/Data-Driven-Discoveries-Analytics-for-Startup-Success/assets/84741857/16aac53b-2c28-45cc-91af-ea2b6ddcd5b6">
+
+*<ins>The analytics task reveals the following:</ins>*
+
+Among the respondents, the **most popular academic departments** are **Web Development, Computer Science, Software Development, Information Technology, and Business Management**, each with a Respondent Count of 4.
+These departments are followed closely by Marketing, which has a Respondent Count of 3.
+It's worth noting that **there is no single stand-out department**; the top five are equally popular.
+The data does not show a clear preference for either technical (i.e., Web Development, Computer Science, Software Development, Information Technology) or business-oriented (i.e., Business Management, Marketing) departments.
+Further analysis or more data might be needed to identify any significant differences or trends among the respondents' academic department choices.
