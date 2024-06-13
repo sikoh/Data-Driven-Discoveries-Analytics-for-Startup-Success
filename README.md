@@ -67,3 +67,24 @@ It's worth noting that **there is no single stand-out department**; the top five
 The data does not show a clear preference for either technical (i.e., Web Development, Computer Science, Software Development, Information Technology) or business-oriented (i.e., Business Management, Marketing) departments.
 
 Further analysis or more data might be needed to identify any significant differences or trends among the respondents' academic department choices.
+
+
+**Analysis of the proportion of respondents requiring online career and learning support in AI.**
+
+<img width="1160" alt="Screenshot 2024-06-13 at 4 51 13 PM" src="https://github.com/sikoh/Data-Driven-Discoveries-Analytics-for-Startup-Success/assets/84741857/372b70b0-1aac-4272-b893-ef6a4f287300">
+
+<img width="976" alt="Screenshot 2024-06-13 at 4 52 31 PM" src="https://github.com/sikoh/Data-Driven-Discoveries-Analytics-for-Startup-Success/assets/84741857/1f26122d-a701-4d64-9bac-80d803b1abdb">
+
+<img width="976" alt="Screenshot 2024-06-13 at 4 54 30 PM" src="https://github.com/sikoh/Data-Driven-Discoveries-Analytics-for-Startup-Success/assets/84741857/3cdaf1dd-0dea-44d8-a101-eebf013c9e57">
+
+<img width="976" alt="Screenshot 2024-06-13 at 4 55 03 PM" src="https://github.com/sikoh/Data-Driven-Discoveries-Analytics-for-Startup-Success/assets/84741857/17116153-0842-4eaf-a3a3-162e50c33617">
+
+*<ins>The analytics task reveals that a significant majority of respondents expressed a need for online career and learning support in AI.</ins>*
+
+**Approximately 65.2% of respondents indicated a requirement for online learning and career support.** 
+In contrast, only about 34.8% of participants responded negatively to the same inquiry. <br>
+Therefore, there's a substantial demand for online resources that cater to AI learning and career development. <br>
+The data suggests an opportunity to enhance online support systems or introduce new, comprehensive platforms that directly address this need.<br>
+
+
+
