@@ -41,7 +41,7 @@ The most common level of educational attainment among respondents interested in 
 
 <img width="980" alt="Screenshot 2024-06-13 at 4 29 45 PM" src="https://github.com/sikoh/Data-Driven-Discoveries-Analytics-for-Startup-Success/assets/84741857/3f37874e-f479-44f3-93e2-731b98d301df">
 
-<ing>*The data results indicate:*</ing>
+<ins>*The data results indicate:*</ins>
 
 **Undergraduate students from Information Technology and Web Development** departments show an equal interest in AI, with a count of 2 respectively.
 
