@@ -94,8 +94,8 @@ The data suggests an opportunity to enhance online support systems or introduce 
 *<ins>The analysis of the educational level of respondents interested in learning generative AI reveals the following:</ins>*
 
 The most common level of educational attainment is a tie between those with a **Bachelor's degree** and those who are **Undergraduates**, each category having 8 respondents. The next common level of educational attainment is a Master's degree with 7 respondents. **This suggests that the interest in generative AI is spread across different stages of higher education, with a slight emphasis on the undergraduate level and those who have completed a Bachelor's degree.**
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 **Report Written by Silvana Koharian**
